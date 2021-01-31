@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.folha"},{"l":"br.com.folha.web.controller"},{"l":"br.com.folha.web.controller.configuracoes.pessoais"}];updateSearchResults();
